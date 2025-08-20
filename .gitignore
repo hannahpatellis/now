@@ -27,9 +27,7 @@ Temporary Items
 .apdisk
 
 env.json
-img_store/
 app/env.json
 
-app/img_store/
 app/composer.phar
 app/vendor/
